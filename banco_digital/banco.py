@@ -68,4 +68,4 @@ while True:
          break
     #criando bloco caso usuario digitou opção errada
     else:
-        print("opcão não existe ")  
+        print("opcão não existe ")  # saida
